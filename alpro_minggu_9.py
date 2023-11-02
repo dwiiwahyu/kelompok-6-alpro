@@ -71,13 +71,13 @@ print("------------------------------------")
 SizePizza = str(input("Masukkan Pilihan Size pizza Anda: "))
 if SizePizza == "Small" :
     print("Harga Small size Rp.49000")
-    harga_small_pizza = 49000
+    harga_size_pizza = 49000
 elif SizePizza == "Medium" :
     print("Harga Medium Rp.59000")
-    harga_medium_pizza = 59000
+    harga_size_pizza = 59000
 elif SizePizza == "Large" :
     print("Harga Large Rp.80000")
-    harga_large_pizza = 80000
+    harga_size_pizza = 80000
 else:
     print("Maaf Size Tidak Tersedia dalam Daftar ")
     
