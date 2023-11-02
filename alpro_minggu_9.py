@@ -93,5 +93,5 @@ else :
     print ("jawaban tidak terdeksi oleh kami")
 
 total_pembelian = harga_topping_pizza + harga_crust_pizza + harga_size_pizza + harga_Extracheese
-print("Thank you for choosing Pizza Hut Deliveries!")
-print(f"Your final bill is: Rp",{total_pembelian})
+print("Terimakasih telah membeli di toko kami!!")
+print(f"Total belanjaan anda adalah: Rp",{total_pembelian})
